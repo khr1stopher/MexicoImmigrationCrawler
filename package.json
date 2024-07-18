@@ -1,0 +1,18 @@
+{
+  "name": "mexicoimmigrationcrawler",
+  "version": "1.0.0",
+  "description": "INMScraper is a Python-based web scraping tool designed to extract data from the Instituto Nacional de Migración (INM) website of Mexico and return it as a markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
